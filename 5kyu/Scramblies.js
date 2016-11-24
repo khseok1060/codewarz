@@ -25,6 +25,7 @@ function scramble(str1, str2) {
   }
 
   return true;
+  
 }
 
 module.exports = scramble;
